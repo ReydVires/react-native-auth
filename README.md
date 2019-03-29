@@ -1,6 +1,6 @@
 # react-native-auth
-# In a new terminal run
+In a new terminal run
 $ react-native start --reset-cache
 
-# finally, run
+finally, run
 $ react-native run-android
